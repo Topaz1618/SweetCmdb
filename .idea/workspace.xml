@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b3729d9e-a6e7-4584-9042-1ac1804cc6fe" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SweetClient/config/settings.py" afterPath="$PROJECT_DIR$/SweetClient/config/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SweetClient/lib/response.py" afterPath="$PROJECT_DIR$/SweetClient/lib/response.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SweetClient/src/client.py" afterPath="$PROJECT_DIR$/SweetClient/src/client.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SweetClient/src/plugins/__init__.py" afterPath="$PROJECT_DIR$/SweetClient/src/plugins/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SweetClient/src/plugins/base.py" afterPath="$PROJECT_DIR$/SweetClient/src/plugins/base.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SweetClient/src/plugins/basic.py" afterPath="$PROJECT_DIR$/SweetClient/src/plugins/basic.py" />
     </list>
     <ignored path="SWEETCMDB.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,17 +43,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="client.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SweetClient/src/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state relative-caret-position="176">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basic.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="basic.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SweetClient/src/plugins/basic.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -740,9 +734,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="451" y="0" width="931" height="772" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16991964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16991964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1070,6 +1064,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SweetClient/src/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SweetClient/src/plugins/basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1082,14 +1084,6 @@
             <element signature="e#572#670#0" expanded="false" />
             <element signature="e#700#1086#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SweetClient/src/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
