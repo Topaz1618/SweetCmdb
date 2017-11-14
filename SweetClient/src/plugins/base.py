@@ -12,6 +12,7 @@ class BasePlugin(object):
         self.mode = settings.MODE
         self.hostname = hostname
     def execute(self):
+        print("hello base execute")
         return self.linux()
     def linux(self):
         raise Exception('Yo must implement linux method.')

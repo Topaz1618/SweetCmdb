@@ -35,7 +35,7 @@ PLUGINS_DICT = {
     'disk': 'src.plugins.disk.DiskPlugin',
     'main_board': 'src.plugins.main_board.MainBoardPlugin',
     'memory': 'src.plugins.memory.MemoryPlugin',
-    'nic': 'src.plugins.nic.NicPlugin',
+    'network': 'src.plugins.network.NetworkPlugin',
 }
 
 # 资产信息API
